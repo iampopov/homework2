@@ -1,0 +1,26 @@
+.hwlink1 {
+    text-align: right;
+    margin-right: 2%;
+    color: #ccc;
+} 
+
+#hwlink2 {
+    color: #ccc;
+}
+
+#hwnavbar {
+    background: teal;
+    color: white;
+    padding: 10px;
+    margin-left: 2%;
+}
+
+#hwtopfixednavbar {
+    padding: 0%;
+    background-color: white!important;
+}
+
+body {
+    background: #ccc;
+}
+
