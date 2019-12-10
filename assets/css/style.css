@@ -79,4 +79,16 @@ body {
     margin-bottom: 20px;
 }
 
+#smbox {
+    background-color: teal;
+    margin-top: 55px;
+    color: white;
+    position: absolute;
+    text-align: center;
+    width: 200px;
+}
+
+.col-md-4 {
+    margin: 20px 0 0;
+}
 
