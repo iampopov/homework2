@@ -92,3 +92,18 @@ body {
     margin: 20px 0 0;
 }
 
+@media screen and (max-width: 768px) {
+#hwnavbar {
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+}
+
+#hwlink2 {
+    padding: 0 30px;
+}
+
+#hwabout {
+    margin: 120px 0 75px 0; 
+}
+}
